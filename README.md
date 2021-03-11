@@ -1,1 +1,2 @@
-# Daeshin_1-10-newspaper
+# 대신고 신문
+
